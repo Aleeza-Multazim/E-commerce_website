@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/E-commerce_website/static/css/main.7a08382a.css",
+    "main.js": "/E-commerce_website/static/js/main.ffe843ef.js",
+    "static/media/Bead_Bracelet.avif": "/E-commerce_website/static/media/Bead_Bracelet.0e21f9faafef9301144c.avif",
+    "static/media/Hooked.jpg": "/E-commerce_website/static/media/Hooked.5cfff7d6bfdad893f54f.jpg",
+    "static/media/Pearl_neckless.jpg": "/E-commerce_website/static/media/Pearl_neckless.13b32d8ac1f1bb959047.jpg",
+    "static/media/Pearl_hoops.avif": "/E-commerce_website/static/media/Pearl_hoops.acdb63becb4ea927793b.avif",
+    "index.html": "/E-commerce_website/index.html",
+    "main.7a08382a.css.map": "/E-commerce_website/static/css/main.7a08382a.css.map",
+    "main.ffe843ef.js.map": "/E-commerce_website/static/js/main.ffe843ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a08382a.css",
+    "static/js/main.ffe843ef.js"
+  ]
+}
